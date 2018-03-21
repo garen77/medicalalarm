@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  MedicalAlarm
+
+  Created by Crescenzo Garofalo on 20/02/18.
+  Copyright © 2018 Crescenzo Garofalo. All rights reserved.
+*/
+
+"lbl_caption" = "Insert user data";
+
+"lbl_name" = "Name";
+"lbl_age" = "Age";
+"lbl_sex" = "Sex";
+
+"ADD_CONT_DONEBUTTON" = "Done";
+
+"ACTION_IMAGE_TITLE" = "Image";
+"ACTION_IMAGE_TEXT" = "Select from library or shoot a new photo";
+"BUTTON_CANCEL" = "Cancel";
+"BUTTON_LIBRARY" = "Library";
+"BUTTON_SHOOT" = "Shoot";
+
